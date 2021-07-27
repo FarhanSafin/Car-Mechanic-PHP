@@ -2,5 +2,5 @@
 Car Mechanic Appointment System
 <br>
 <b>
-LIVE LINK: carmechs.great-site.net
+LIVE LINK: http://carmechs.great-site.net/
 </b>
